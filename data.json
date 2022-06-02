@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "fastai/nbdev",
+    "stargazers_count": 3253,
+    "open_issues_count": 67,
+    "forks_count": 344
+  },
+  {
+    "full_name": "qiskit-community/qiskit-textbook",
+    "stargazers_count": 709,
+    "open_issues_count": 109,
+    "forks_count": 616
+  },
+  {
     "full_name": "qir-alliance/pyqir",
     "stargazers_count": 20,
     "open_issues_count": 20,
