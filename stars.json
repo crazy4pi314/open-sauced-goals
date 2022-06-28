@@ -1,14 +1,26 @@
 [
   {
+    "full_name": "git-learning-game/oh-my-git",
+    "stargazers_count": 934,
+    "open_issues_count": 75,
+    "forks_count": 74
+  },
+  {
+    "full_name": "rsheldiii/KeyV2",
+    "stargazers_count": 1004,
+    "open_issues_count": 42,
+    "forks_count": 132
+  },
+  {
     "full_name": "tiangolo/typer",
-    "stargazers_count": 8090,
+    "stargazers_count": 8109,
     "open_issues_count": 183,
-    "forks_count": 311
+    "forks_count": 314
   },
   {
     "full_name": "kjaymiller/diversity-orgs-django",
     "stargazers_count": 5,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 1
   },
   {
@@ -19,27 +31,27 @@
   },
   {
     "full_name": "intake/intake",
-    "stargazers_count": 783,
+    "stargazers_count": 784,
     "open_issues_count": 90,
     "forks_count": 120
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 34334,
-    "open_issues_count": 192,
-    "forks_count": 5087
+    "stargazers_count": 34400,
+    "open_issues_count": 196,
+    "forks_count": 5107
   },
   {
     "full_name": "py-why/dowhy",
-    "stargazers_count": 4763,
-    "open_issues_count": 83,
-    "forks_count": 675
+    "stargazers_count": 4777,
+    "open_issues_count": 75,
+    "forks_count": 677
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 25391,
-    "open_issues_count": 121,
-    "forks_count": 4102
+    "stargazers_count": 25501,
+    "open_issues_count": 122,
+    "forks_count": 4120
   },
   {
     "full_name": "xlwings/jsondiff",
@@ -49,15 +61,15 @@
   },
   {
     "full_name": "fastai/nbdev",
-    "stargazers_count": 3277,
+    "stargazers_count": 3279,
     "open_issues_count": 73,
     "forks_count": 346
   },
   {
     "full_name": "qiskit-community/qiskit-textbook",
-    "stargazers_count": 718,
-    "open_issues_count": 108,
-    "forks_count": 626
+    "stargazers_count": 719,
+    "open_issues_count": 101,
+    "forks_count": 627
   },
   {
     "full_name": "Strilanc/Quirk",
@@ -73,51 +85,51 @@
   },
   {
     "full_name": "qosf/awesome-quantum-software",
-    "stargazers_count": 945,
+    "stargazers_count": 947,
     "open_issues_count": 3,
     "forks_count": 220
   },
   {
     "full_name": "quantumlib/OpenFermion",
-    "stargazers_count": 1258,
+    "stargazers_count": 1259,
     "open_issues_count": 63,
-    "forks_count": 325
+    "forks_count": 326
   },
   {
     "full_name": "PennyLaneAI/pennylane",
-    "stargazers_count": 1465,
-    "open_issues_count": 218,
-    "forks_count": 383
+    "stargazers_count": 1467,
+    "open_issues_count": 220,
+    "forks_count": 384
   },
   {
     "full_name": "rigetti/pyquil",
     "stargazers_count": 1251,
-    "open_issues_count": 184,
+    "open_issues_count": 183,
     "forks_count": 334
   },
   {
     "full_name": "Qiskit/qiskit-tutorials",
-    "stargazers_count": 1946,
-    "open_issues_count": 99,
-    "forks_count": 1161
+    "stargazers_count": 1947,
+    "open_issues_count": 100,
+    "forks_count": 1162
   },
   {
     "full_name": "Qiskit/qiskit",
-    "stargazers_count": 2589,
-    "open_issues_count": 119,
-    "forks_count": 716
+    "stargazers_count": 2592,
+    "open_issues_count": 118,
+    "forks_count": 717
   },
   {
     "full_name": "quantumlib/Cirq",
-    "stargazers_count": 3282,
-    "open_issues_count": 288,
-    "forks_count": 754
+    "stargazers_count": 3285,
+    "open_issues_count": 277,
+    "forks_count": 755
   },
   {
     "full_name": "Qiskit/qiskit-terra",
-    "stargazers_count": 3342,
-    "open_issues_count": 807,
-    "forks_count": 1683
+    "stargazers_count": 3344,
+    "open_issues_count": 803,
+    "forks_count": 1686
   },
   {
     "full_name": "microsoft/QuantumKatas",
@@ -128,26 +140,26 @@
   {
     "full_name": "cda-tum/ddsim",
     "stargazers_count": 46,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 12
   },
   {
     "full_name": "microsoft/Microsoft-3D-Movie-Maker",
-    "stargazers_count": 3436,
+    "stargazers_count": 3437,
     "open_issues_count": 0,
-    "forks_count": 243
+    "forks_count": 245
   },
   {
     "full_name": "lucidrains/DALLE2-pytorch",
-    "stargazers_count": 6132,
-    "open_issues_count": 15,
-    "forks_count": 402
+    "stargazers_count": 6192,
+    "open_issues_count": 18,
+    "forks_count": 412
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 13379,
-    "open_issues_count": 161,
-    "forks_count": 914
+    "stargazers_count": 13462,
+    "open_issues_count": 165,
+    "forks_count": 922
   },
   {
     "full_name": "executablebooks/github-action-demo",
@@ -157,7 +169,7 @@
   },
   {
     "full_name": "npm/statusboard",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 121,
     "forks_count": 26
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 22,
     "open_issues_count": 5,
     "forks_count": 3
-  },
-  {
-    "full_name": "o2sh/onefetch",
-    "stargazers_count": 5357,
-    "open_issues_count": 15,
-    "forks_count": 191
-  },
-  {
-    "full_name": "tomdionysus/foaas",
-    "stargazers_count": 2856,
-    "open_issues_count": 4,
-    "forks_count": 406
   }
 ]
