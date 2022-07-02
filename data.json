@@ -1,15 +1,15 @@
 [
   {
     "full_name": "fastai/nbdev",
-    "stargazers_count": 3282,
+    "stargazers_count": 3283,
     "open_issues_count": 76,
-    "forks_count": 347
+    "forks_count": 348
   },
   {
     "full_name": "qiskit-community/qiskit-textbook",
-    "stargazers_count": 720,
+    "stargazers_count": 722,
     "open_issues_count": 105,
-    "forks_count": 628
+    "forks_count": 629
   },
   {
     "full_name": "qir-alliance/pyqir",
@@ -20,13 +20,13 @@
   {
     "full_name": "unitaryfund/mitiq",
     "stargazers_count": 206,
-    "open_issues_count": 78,
+    "open_issues_count": 79,
     "forks_count": 92
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 710,
     "open_issues_count": 16,
-    "forks_count": 299
+    "forks_count": 298
   }
 ]
