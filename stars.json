@@ -1,20 +1,20 @@
 [
   {
     "full_name": "primer/prism",
-    "stargazers_count": 417,
+    "stargazers_count": 421,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "GitJournal/GitJournal",
-    "stargazers_count": 2446,
+    "stargazers_count": 2450,
     "open_issues_count": 267,
     "forks_count": 156
   },
   {
     "full_name": "OctoPrint/OctoPrint",
-    "stargazers_count": 6706,
-    "open_issues_count": 261,
+    "stargazers_count": 6708,
+    "open_issues_count": 264,
     "forks_count": 1550
   },
   {
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "rsheldiii/KeyV2",
-    "stargazers_count": 1007,
+    "stargazers_count": 1008,
     "open_issues_count": 44,
     "forks_count": 132
   },
   {
     "full_name": "tiangolo/typer",
-    "stargazers_count": 8164,
+    "stargazers_count": 8175,
     "open_issues_count": 179,
     "forks_count": 315
   },
@@ -50,44 +50,44 @@
   {
     "full_name": "intake/intake",
     "stargazers_count": 784,
-    "open_issues_count": 91,
-    "forks_count": 121
+    "open_issues_count": 92,
+    "forks_count": 122
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 34551,
-    "open_issues_count": 198,
-    "forks_count": 5136
+    "stargazers_count": 34574,
+    "open_issues_count": 199,
+    "forks_count": 5141
   },
   {
     "full_name": "py-why/dowhy",
-    "stargazers_count": 4853,
-    "open_issues_count": 74,
-    "forks_count": 685
+    "stargazers_count": 4865,
+    "open_issues_count": 67,
+    "forks_count": 687
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 25720,
-    "open_issues_count": 117,
-    "forks_count": 4174
+    "stargazers_count": 25748,
+    "open_issues_count": 116,
+    "forks_count": 4179
   },
   {
     "full_name": "xlwings/jsondiff",
-    "stargazers_count": 508,
+    "stargazers_count": 509,
     "open_issues_count": 18,
     "forks_count": 59
   },
   {
     "full_name": "fastai/nbdev",
-    "stargazers_count": 3284,
-    "open_issues_count": 75,
+    "stargazers_count": 3288,
+    "open_issues_count": 76,
     "forks_count": 349
   },
   {
     "full_name": "qiskit-community/qiskit-textbook",
-    "stargazers_count": 724,
-    "open_issues_count": 105,
-    "forks_count": 630
+    "stargazers_count": 726,
+    "open_issues_count": 106,
+    "forks_count": 632
   },
   {
     "full_name": "Strilanc/Quirk",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "qosf/awesome-quantum-software",
-    "stargazers_count": 947,
+    "stargazers_count": 946,
     "open_issues_count": 3,
     "forks_count": 220
   },
@@ -116,8 +116,8 @@
   {
     "full_name": "PennyLaneAI/pennylane",
     "stargazers_count": 1471,
-    "open_issues_count": 224,
-    "forks_count": 387
+    "open_issues_count": 225,
+    "forks_count": 388
   },
   {
     "full_name": "rigetti/pyquil",
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "Qiskit/qiskit-tutorials",
-    "stargazers_count": 1952,
-    "open_issues_count": 101,
-    "forks_count": 1164
+    "stargazers_count": 1954,
+    "open_issues_count": 103,
+    "forks_count": 1165
   },
   {
     "full_name": "Qiskit/qiskit",
     "stargazers_count": 2598,
     "open_issues_count": 117,
-    "forks_count": 721
+    "forks_count": 722
   },
   {
     "full_name": "quantumlib/Cirq",
-    "stargazers_count": 3293,
+    "stargazers_count": 3294,
     "open_issues_count": 286,
     "forks_count": 756
   },
   {
     "full_name": "Qiskit/qiskit-terra",
-    "stargazers_count": 3347,
-    "open_issues_count": 827,
-    "forks_count": 1692
+    "stargazers_count": 3349,
+    "open_issues_count": 829,
+    "forks_count": 1695
   },
   {
     "full_name": "microsoft/QuantumKatas",
     "stargazers_count": 3917,
     "open_issues_count": 24,
-    "forks_count": 1078
+    "forks_count": 1079
   },
   {
     "full_name": "cda-tum/ddsim",
-    "stargazers_count": 46,
-    "open_issues_count": 5,
+    "stargazers_count": 47,
+    "open_issues_count": 4,
     "forks_count": 12
   },
   {
     "full_name": "microsoft/Microsoft-3D-Movie-Maker",
-    "stargazers_count": 3445,
+    "stargazers_count": 3447,
     "open_issues_count": 0,
     "forks_count": 246
   },
   {
     "full_name": "lucidrains/DALLE2-pytorch",
-    "stargazers_count": 6318,
-    "open_issues_count": 19,
-    "forks_count": 426
+    "stargazers_count": 6342,
+    "open_issues_count": 16,
+    "forks_count": 428
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 13603,
-    "open_issues_count": 157,
-    "forks_count": 944
+    "stargazers_count": 13630,
+    "open_issues_count": 158,
+    "forks_count": 946
   }
 ]
