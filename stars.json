@@ -1,27 +1,27 @@
 [
   {
     "full_name": "scipy/scipy",
-    "stargazers_count": 9929,
-    "open_issues_count": 1743,
-    "forks_count": 4323
+    "stargazers_count": 9942,
+    "open_issues_count": 1739,
+    "forks_count": 4325
   },
   {
     "full_name": "arviz-devs/arviz",
-    "stargazers_count": 1243,
+    "stargazers_count": 1244,
     "open_issues_count": 158,
     "forks_count": 285
   },
   {
     "full_name": "ploomber/ploomber",
-    "stargazers_count": 2565,
-    "open_issues_count": 216,
+    "stargazers_count": 2567,
+    "open_issues_count": 215,
     "forks_count": 168
   },
   {
     "full_name": "samuelcolvin/pydantic",
-    "stargazers_count": 10425,
-    "open_issues_count": 609,
-    "forks_count": 987
+    "stargazers_count": 10436,
+    "open_issues_count": 611,
+    "forks_count": 990
   },
   {
     "full_name": "primer/prism",
@@ -31,31 +31,31 @@
   },
   {
     "full_name": "GitJournal/GitJournal",
-    "stargazers_count": 2474,
+    "stargazers_count": 2476,
     "open_issues_count": 269,
     "forks_count": 157
   },
   {
     "full_name": "OctoPrint/OctoPrint",
-    "stargazers_count": 6720,
+    "stargazers_count": 6722,
     "open_issues_count": 272,
     "forks_count": 1552
   },
   {
     "full_name": "git-learning-game/oh-my-git",
-    "stargazers_count": 967,
+    "stargazers_count": 969,
     "open_issues_count": 75,
     "forks_count": 75
   },
   {
     "full_name": "rsheldiii/KeyV2",
-    "stargazers_count": 1014,
+    "stargazers_count": 1016,
     "open_issues_count": 44,
     "forks_count": 132
   },
   {
     "full_name": "tiangolo/typer",
-    "stargazers_count": 8306,
+    "stargazers_count": 8318,
     "open_issues_count": 184,
     "forks_count": 323
   },
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 34810,
-    "open_issues_count": 195,
-    "forks_count": 5197
+    "stargazers_count": 34841,
+    "open_issues_count": 196,
+    "forks_count": 5205
   },
   {
     "full_name": "py-why/dowhy",
-    "stargazers_count": 4920,
-    "open_issues_count": 74,
+    "stargazers_count": 4926,
+    "open_issues_count": 76,
     "forks_count": 694
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 26058,
-    "open_issues_count": 90,
-    "forks_count": 4226
+    "stargazers_count": 26130,
+    "open_issues_count": 64,
+    "forks_count": 4236
   },
   {
     "full_name": "xlwings/jsondiff",
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "fastai/nbdev",
-    "stargazers_count": 3300,
+    "stargazers_count": 3302,
     "open_issues_count": 76,
-    "forks_count": 350
+    "forks_count": 351
   },
   {
     "full_name": "qiskit-community/qiskit-textbook",
     "stargazers_count": 729,
-    "open_issues_count": 106,
-    "forks_count": 632
+    "open_issues_count": 107,
+    "forks_count": 633
   },
   {
     "full_name": "Strilanc/Quirk",
-    "stargazers_count": 721,
+    "stargazers_count": 722,
     "open_issues_count": 37,
     "forks_count": 136
   },
@@ -153,30 +153,30 @@
     "full_name": "Qiskit/qiskit-tutorials",
     "stargazers_count": 1960,
     "open_issues_count": 108,
-    "forks_count": 1171
+    "forks_count": 1170
   },
   {
     "full_name": "Qiskit/qiskit",
-    "stargazers_count": 2613,
+    "stargazers_count": 2616,
     "open_issues_count": 119,
-    "forks_count": 728
+    "forks_count": 729
   },
   {
     "full_name": "quantumlib/Cirq",
     "stargazers_count": 3298,
-    "open_issues_count": 283,
+    "open_issues_count": 285,
     "forks_count": 758
   },
   {
     "full_name": "Qiskit/qiskit-terra",
-    "stargazers_count": 3352,
-    "open_issues_count": 855,
-    "forks_count": 1703
+    "stargazers_count": 3354,
+    "open_issues_count": 864,
+    "forks_count": 1704
   },
   {
     "full_name": "microsoft/QuantumKatas",
     "stargazers_count": 3921,
-    "open_issues_count": 26,
+    "open_issues_count": 24,
     "forks_count": 1084
   }
 ]
